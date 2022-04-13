@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="67" viewBox="0 0 67 67">
+    <defs>
+        <path id="prefix__a" d="M0 0.485L50.711 0.485 50.711 51.418 0 51.418z"/>
+        <path id="prefix__c" d="M0.492 0.221L26.532 0.221 26.532 27 0.492 27z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <path fill="#000" d="M25.355 5.336C14.02 5.336 4.83 14.566 4.83 25.95c0 11.386 9.19 20.616 20.525 20.616 11.336 0 20.525-9.23 20.525-20.616-.013-11.38-9.194-20.602-20.525-20.615m0 46.082C11.352 51.418 0 40.017 0 25.951 0 11.886 11.352.485 25.355.485s25.356 11.401 25.356 25.466c-.014 14.06-11.359 25.453-25.356 25.467" mask="url(#prefix__b)"/>
+        <g transform="translate(39 40)">
+            <mask id="prefix__d" fill="#fff">
+                <use xlink:href="#prefix__c"/>
+            </mask>
+            <path fill="#000" d="M24.107 27a2.375 2.375 0 01-1.712-.72L1.205 4.468a2.534 2.534 0 010-3.524 2.363 2.363 0 013.4 0l21.214 21.813c.945.965.951 2.538.014 3.51l-.014.015a2.375 2.375 0 01-1.712.72" mask="url(#prefix__d)"/>
+        </g>
+    </g>
+</svg>
